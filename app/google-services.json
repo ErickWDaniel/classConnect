@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "189736604918",
+    "project_id": "classconnect-4f452",
+    "storage_bucket": "classconnect-4f452.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189736604918:android:873967f756daf79be848d7",
+        "android_client_info": {
+          "package_name": "tz.erickwilfred.classconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189736604918-1uj6p7c84j0m9t52i10cee73721525ug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBykmZ2zb2434ix4pLflJHyuzxixiFYYE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189736604918-1uj6p7c84j0m9t52i10cee73721525ug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

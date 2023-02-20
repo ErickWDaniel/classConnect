@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">classConnect</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="your_contacts">Your Contacts</string>
+    <string name="your_groups">Your Groups</string>
+    <string name="your_chats">Your Chats</string>
+</resources>
